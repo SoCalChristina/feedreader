@@ -6,8 +6,10 @@ This project is a feedreader testing excercise for the Grow With Google Udacity 
 
 Requirements
 ===========
-Jasmine version 2.1.2 is used in this project. (https://github.com/jasmine/jasmine/releases/tag/v2.2.1)--
-A web browser--
+Jasmine version 2.1.2 is used in this project. (https://github.com/jasmine/jasmine/releases/tag/v2.2.1)
+
+A web browser
+
 Dev tools
 
 Instructions
