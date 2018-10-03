@@ -14,8 +14,8 @@ Alternatively, you can view the site on github pages by using the link below.
 Test Suites
 ===========
 
-1. RSS Feeds
-============
+###1. RSS Feeds
+
 Feeds are Defined
 The Feed is not empty
 
@@ -47,8 +47,8 @@ Refresh the index.html file to check for errors.
 The test works if errors are displayed.
 
 
-2. The Menu
-===========
+###2. The Menu
+
 The menu is hidden by default
 The menu is visible when the menu icon is clicked
 
@@ -61,8 +61,8 @@ Delete the body class "menu-hidden"
 Refresh the index.html file to check for errors.
 The test works if errors are displayed.
 
-3. Initial Entries
-=================
+###3. Initial Entries
+
 Call the loadfeed
 Place an entry into the feed container before the load is done
 
@@ -73,8 +73,8 @@ Change one of the URLs in the allFeeds array
 Refresh the index.html file to check for errors.
 The test works if errors are displayed.
 
-4. New Feed Selection
-=====================
+###4. New Feed Selection
+
 Feed content changes when new feed is loaded
 
 How to run this test:
