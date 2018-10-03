@@ -7,11 +7,8 @@ This project is a feedreader testing excercise for the Grow With Google Udacity 
 Requirements
 ===========
 Jasmine version 2.1.2 is used in this project. (https://github.com/jasmine/jasmine/releases/tag/v2.2.1)
-
-A web browser
-
-Dev tools
-
+A web browser--
+Dev tools--
 
 Instructions
 ============
@@ -33,7 +30,7 @@ The Feed is not empty
 
 
 How to run this test:
-
+--------------------
 Open the app.js file
 
 Delete the contents of the allFeeds array
@@ -43,13 +40,14 @@ Refresh the index.html file to check for errors.
 
 The test works if errors are displayed.
 
+
 The Feed URL is defined
 
 The Feed URL is not empty
 
 
 How to run this test:
-
+--------------------
 Open the app.js file
 
 Delete the URLs in the allFeeds array
@@ -66,7 +64,7 @@ Feed names are not empty
 
 
 How to run this test:
-
+--------------------
 Open the app.js file
 
 Delete the names in the allFeeds array
@@ -87,7 +85,7 @@ The menu is hidden when the menu icon  is clicked again
 
 
 How to run this test:
-
+--------------------
 Open the index.html file
 
 Delete the body class "menu-hidden"
@@ -105,7 +103,7 @@ Place an entry into the feed container before the load is done
 
 
 How to run this test:
-
+--------------------
 Open the index.html file
 
 Change one of the URLs in the allFeeds array
@@ -122,7 +120,7 @@ Feed content changes when new feed is loaded
 
 
 How to run this test:
-
+--------------------
 Make a change to the test in the feedreader.js file
 
 Negate the === in, expect(feedOne === feedTwo).toBe(false); by changing it to !===
