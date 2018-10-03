@@ -2,19 +2,24 @@ Feedreader
 ==========
 GWG Udacity Frontend Project 4
 ==============================
+This project is a feedreader testing excercise for the Grow With Google Udacity Frontend Nano Degree.
 
-This project uses jasmine to test the JavaScript application of a feedreader website.
+Requirements
+===========
+Jasmine version 2.1.2 is used in this project. (https://github.com/jasmine/jasmine/releases/tag/v2.2.1)
+A web browser
+Dev tools
 
 Instructions
 ============
-Download all the files and open the index.html file in your browser.
+Download all the files and open in your code editor. Next, open the index.html file in your browser.
 
-Alternatively, you can view the site on github pages by using the link below.
+Alternatively, you can view the site on github pages here (https://socalchristina.github.io/feedreader/)
 
 Test Suites
 ===========
 
-###1. RSS Feeds
+H3 1. RSS Feeds
 
 Feeds are Defined
 The Feed is not empty
@@ -47,7 +52,7 @@ Refresh the index.html file to check for errors.
 The test works if errors are displayed.
 
 
-###2. The Menu
+H3 2. The Menu
 
 The menu is hidden by default
 The menu is visible when the menu icon is clicked
@@ -61,7 +66,7 @@ Delete the body class "menu-hidden"
 Refresh the index.html file to check for errors.
 The test works if errors are displayed.
 
-###3. Initial Entries
+H3 3. Initial Entries
 
 Call the loadfeed
 Place an entry into the feed container before the load is done
@@ -73,8 +78,7 @@ Change one of the URLs in the allFeeds array
 Refresh the index.html file to check for errors.
 The test works if errors are displayed.
 
-###4. New Feed Selection
-
+H3 4. New Feed Selection
 Feed content changes when new feed is loaded
 
 How to run this test:
@@ -83,4 +87,18 @@ Negate the === in, expect(feedOne === feedTwo).toBe(false); by changing it to !=
 
 Refresh the index.html file to check for errors.
 The test works if errors are displayed.
+
+Resources
+=========
+Jasmine documentation (https://jasmine.github.io/)
+The starter code is located here: (https://github.com/udacity/frontend-nanodegree-feedreader)
+
+Acknowledgements
+================
+I used a tutorial by Lloan Alas (https://udenver.zoom.us/recording/play/-1Agy4wDME0_ab_zaNUiWquZOWdb4qQvCJENURKWT4CDtHWqXrE0yI7DSi8kfvm5?continueMode=true)
+
+Contact
+=======
+
+Connect with me on LinkedIn (https://www.linkedin.com/in/christina-tovar-hamernik/) or Twitter (@CTovarHamernik)
 
