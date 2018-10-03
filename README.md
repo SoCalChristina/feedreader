@@ -6,9 +6,9 @@ This project is a feedreader testing excercise for the Grow With Google Udacity 
 
 Requirements
 ===========
-Jasmine version 2.1.2 is used in this project. (https://github.com/jasmine/jasmine/releases/tag/v2.2.1)
-A web browser
-Dev tools
+Jasmine version 2.1.2 is used in this project. (https://github.com/jasmine/jasmine/releases/tag/v2.2.1)...
+...A web browser...
+...Dev tools...
 
 Instructions
 ============
@@ -19,8 +19,8 @@ Alternatively, you can view the site on github pages here (https://socalchristin
 Test Suites
 ===========
 
-H3 1. RSS Feeds
-
+RSS Feeds
+---------
 Feeds are Defined
 The Feed is not empty
 
@@ -52,8 +52,8 @@ Refresh the index.html file to check for errors.
 The test works if errors are displayed.
 
 
-H3 2. The Menu
-
+The Menu
+--------
 The menu is hidden by default
 The menu is visible when the menu icon is clicked
 
@@ -66,8 +66,8 @@ Delete the body class "menu-hidden"
 Refresh the index.html file to check for errors.
 The test works if errors are displayed.
 
-H3 3. Initial Entries
-
+Initial Entries
+---------------
 Call the loadfeed
 Place an entry into the feed container before the load is done
 
