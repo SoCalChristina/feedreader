@@ -78,7 +78,8 @@ Change one of the URLs in the allFeeds array
 Refresh the index.html file to check for errors.
 The test works if errors are displayed.
 
-H3 4. New Feed Selection
+New Feed Selection
+------------------
 Feed content changes when new feed is loaded
 
 How to run this test:
@@ -95,7 +96,11 @@ The starter code is located here: (https://github.com/udacity/frontend-nanodegre
 
 Acknowledgements
 ================
-I used a tutorial by Lloan Alas (https://udenver.zoom.us/recording/play/-1Agy4wDME0_ab_zaNUiWquZOWdb4qQvCJENURKWT4CDtHWqXrE0yI7DSi8kfvm5?continueMode=true)
+I used an extemely thorough and well presented tutorial by Lloan Alas (https://udenver.zoom.us/recording/play/-1Agy4wDME0_ab_zaNUiWquZOWdb4qQvCJENURKWT4CDtHWqXrE0yI7DSi8kfvm5?continueMode=true)
+
+Contributions
+=============
+This project is not currently open for pull requests.
 
 Contact
 =======
